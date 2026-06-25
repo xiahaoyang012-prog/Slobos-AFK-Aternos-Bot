@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "alessio12344.aternos.me:27308",
+    "ip": "alessio12344.aternos.me",
     "port":  27308,
     "version": "1.21.1",
     "try-creative": false
